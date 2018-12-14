@@ -1,0 +1,10 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/**
+ * Generated bundle index. Do not edit.
+ */
+export { NgxAuthStateHandlerModule } from './public_api';
+export { NgxAuthStateHandler as ɵa } from './auth-state-handler';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibmd4LWF1dGgtc3RhdGUtaGFuZGxlci5qcyIsInNvdXJjZVJvb3QiOiJuZzovL25neC1hdXRoLXN0YXRlLWhhbmRsZXIvIiwic291cmNlcyI6WyJuZ3gtYXV0aC1zdGF0ZS1oYW5kbGVyLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7Ozs7QUFJQSwwQ0FBYyxjQUFjLENBQUM7QUFFN0IsT0FBTyxFQUFDLG1CQUFtQixJQUFJLEVBQUUsRUFBQyxNQUFNLHNCQUFzQixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLyoqXG4gKiBHZW5lcmF0ZWQgYnVuZGxlIGluZGV4LiBEbyBub3QgZWRpdC5cbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL3B1YmxpY19hcGknO1xuXG5leHBvcnQge05neEF1dGhTdGF0ZUhhbmRsZXIgYXMgybVhfSBmcm9tICcuL2F1dGgtc3RhdGUtaGFuZGxlcic7Il19
