@@ -1,5 +1,5 @@
-import { CommonModule } from '@angular/common';
 import { Injectable, NgModule } from '@angular/core';
+import { CommonModule } from '@angular/common';
 
 /**
  * @fileoverview added by tsickle
@@ -130,6 +130,6 @@ var NgxAuthStateHandlerModule = /** @class */ (function () {
  * @suppress {checkTypes,extraRequire,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
  */
 
-export { NgxAuthStateHandlerModule, NgxAuthStateHandler as ɵa };
+export { NgxAuthStateHandler, NgxAuthStateHandlerModule };
 
 //# sourceMappingURL=ngx-auth-state-handler.js.map

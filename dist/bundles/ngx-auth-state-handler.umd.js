@@ -1,8 +1,8 @@
 (function (global, factory) {
-    typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('@angular/common'), require('@angular/core')) :
-    typeof define === 'function' && define.amd ? define('ngx-auth-state-handler', ['exports', '@angular/common', '@angular/core'], factory) :
-    (factory((global['ngx-auth-state-handler'] = {}),global.ng.common,global.ng.core));
-}(this, (function (exports,common,core) { 'use strict';
+    typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('@angular/core'), require('@angular/common')) :
+    typeof define === 'function' && define.amd ? define('ngx-auth-state-handler', ['exports', '@angular/core', '@angular/common'], factory) :
+    (factory((global['ngx-auth-state-handler'] = {}),global.ng.core,global.ng.common));
+}(this, (function (exports,core,common) { 'use strict';
 
     /**
      * @fileoverview added by tsickle
@@ -133,8 +133,8 @@
      * @suppress {checkTypes,extraRequire,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
      */
 
+    exports.NgxAuthStateHandler = NgxAuthStateHandler;
     exports.NgxAuthStateHandlerModule = NgxAuthStateHandlerModule;
-    exports.ɵa = NgxAuthStateHandler;
 
     Object.defineProperty(exports, '__esModule', { value: true });
 
