@@ -8,7 +8,7 @@
      * @fileoverview added by tsickle
      * @suppress {checkTypes,extraRequire,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
      */
-    var NgxAuthStateHandler = /** @class */ (function () {
+    var NgxAuthStateHandler = (function () {
         function NgxAuthStateHandler() {
             this.USER_KEY = '';
             this.TOKEN_KEY = '';
@@ -102,7 +102,6 @@
         NgxAuthStateHandler.decorators = [
             { type: core.Injectable }
         ];
-        /** @nocollapse */
         NgxAuthStateHandler.ctorParameters = function () { return []; };
         return NgxAuthStateHandler;
     }());
@@ -111,7 +110,7 @@
      * @fileoverview added by tsickle
      * @suppress {checkTypes,extraRequire,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
      */
-    var NgxAuthStateHandlerModule = /** @class */ (function () {
+    var NgxAuthStateHandlerModule = (function () {
         function NgxAuthStateHandlerModule() {
         }
         NgxAuthStateHandlerModule.decorators = [

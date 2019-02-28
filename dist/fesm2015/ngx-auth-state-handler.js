@@ -71,7 +71,6 @@ class NgxAuthStateHandler {
 NgxAuthStateHandler.decorators = [
     { type: Injectable }
 ];
-/** @nocollapse */
 NgxAuthStateHandler.ctorParameters = () => [];
 
 /**

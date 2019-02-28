@@ -99,7 +99,6 @@ var NgxAuthStateHandler = /** @class */ (function () {
     NgxAuthStateHandler.decorators = [
         { type: Injectable }
     ];
-    /** @nocollapse */
     NgxAuthStateHandler.ctorParameters = function () { return []; };
     return NgxAuthStateHandler;
 }());
