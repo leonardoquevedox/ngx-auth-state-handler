@@ -1,3 +1,9 @@
+/**
+ * @license MIT
+ * @version 1.1.0
+ * @author Leonardo Quevedo
+ * @description Authentication management service.
+ */
 export declare class NgxAuthStateHandler {
     USER_KEY: string;
     TOKEN_KEY: string;

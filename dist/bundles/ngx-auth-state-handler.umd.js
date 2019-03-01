@@ -6,9 +6,9 @@
 
     /**
      * @fileoverview added by tsickle
-     * @suppress {checkTypes,extraRequire,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+     * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
      */
-    var NgxAuthStateHandler = (function () {
+    var NgxAuthStateHandler = /** @class */ (function () {
         function NgxAuthStateHandler() {
             this.USER_KEY = '';
             this.TOKEN_KEY = '';
@@ -108,9 +108,9 @@
 
     /**
      * @fileoverview added by tsickle
-     * @suppress {checkTypes,extraRequire,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+     * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
      */
-    var NgxAuthStateHandlerModule = (function () {
+    var NgxAuthStateHandlerModule = /** @class */ (function () {
         function NgxAuthStateHandlerModule() {
         }
         NgxAuthStateHandlerModule.decorators = [
@@ -124,12 +124,12 @@
 
     /**
      * @fileoverview added by tsickle
-     * @suppress {checkTypes,extraRequire,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+     * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
      */
 
     /**
      * @fileoverview added by tsickle
-     * @suppress {checkTypes,extraRequire,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+     * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
      */
 
     exports.NgxAuthStateHandler = NgxAuthStateHandler;
