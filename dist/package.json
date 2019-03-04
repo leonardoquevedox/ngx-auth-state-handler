@@ -1,6 +1,6 @@
 {
   "name": "ngx-auth-state-handler",
-  "version": "1.0.0-rc21",
+  "version": "1.0.0-rc24",
   "description": "Simple authentication state handler for Angular.io.",
   "main": "bundles/ngx-auth-state-handler.umd.js",
   "repository": {
